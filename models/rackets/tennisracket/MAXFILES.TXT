@@ -1,0 +1,6 @@
+﻿D:\WORK\3D SKY\Tennis Racquet\scenes\t$m$p$$$\Tennis Racquet.max
+D:\WORK\3D SKY\Tennis Racquet\scenes\t$m$p$$$\MAXFILES.TXT
+D:\WORK\3D SKY\Tennis Racquet\sceneassets\images\_metal_bump.jpg
+D:\WORK\3D SKY\Tennis Racquet\sceneassets\images\leather_bump.jpg
+D:\WORK\3D SKY\Tennis Racquet\sceneassets\images\enis_racket_D_02.jpg
+D:\WORK\3D SKY\Tennis Racquet\sceneassets\images\tenis_racket_D.jpg

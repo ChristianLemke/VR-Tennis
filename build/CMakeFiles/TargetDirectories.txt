@@ -1,0 +1,1 @@
+/home/ru37yod/student_project/build/CMakeFiles/MyProject.dir

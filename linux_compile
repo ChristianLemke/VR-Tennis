@@ -1,0 +1,15 @@
+#! /bin/bash
+
+if [ ! -d build ]; then
+	mkdir build
+fi
+cd build && \
+cmake -C ../user.cmake \
+-DCMAKE_CXX_FLAGS="-std=c++11" \
+.. && make && cd .. && \
+if [ ! -e start_demo_cave ] ; then
+#	echo "#! /bin/bash " > start_demo
+#	echo "./build/main -f config/lrz_cave_vrpn.csm" >> start_demo
+	chmod +x start_*
+fi
+
